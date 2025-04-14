@@ -4,11 +4,9 @@ This repository contains all electrical schematics, layouts, firmware, and docum
 
 ## Sections
 - `schematics/`: Electrical schematics (PDF and source)
-- `pcb_layouts/`: PCB layouts and design files
-- `wiring_diagrams/`: Visual wiring plans for assemblies
-- `firmware/`: Code for microcontrollers
-- `bill_of_materials/`: Component lists for each assembly
-- `testing_and_debug/`: Logs, fixes, and diagnostic protocols
+- `pcb/`: PCB layouts and design files
+- `firmware/`: Manual and Path Following code for microcontrollers
+- `components/`: Component lists and data sheets
 - `installation_guides/`: Guides for assembling and wiring
 - `safety_docs/`: E-Stop systems, power cutoffs, compliance notes
 
