@@ -1,3 +1,4 @@
 C:/Users/tsche/Downloads/motor_setup_CLEARVIEW.zip filter=lfs diff=lfs merge=lfs -text
 C:/Users/tsche/Downloads/motor_setup_CLEARVIEW.zip filter=lfs diff=lfs merge=lfs -text
 motor_setup_CLEARVIEW.zip filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
